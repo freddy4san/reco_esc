@@ -1,12 +1,12 @@
 # reco_esc
 
-A new Flutter project.
+A daily Notifications App.
 
-## Getting Started
+## Additional Information
 
-This project is a starting point for a Flutter application.
+This project was made with Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+If you want to know more check below a few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
