@@ -1,4 +1,4 @@
-package com.example.reco_esc;
+package com.free4doom.reco_esc;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
