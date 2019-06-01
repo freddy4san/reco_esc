@@ -11,7 +11,7 @@ description: A new Notification project.
 # In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
 # Read more about iOS versioning at
 # https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
-version: 2.0.0+2
+version: 1.1.0+4
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
@@ -45,8 +45,12 @@ flutter:
   uses-material-design: true
   assets:
     - assets/images/logo_terapia.jpeg
-    - assets/images/tree_house.jpg
     - assets/images/logo_proyecto.jpeg
+    - assets/images/img_tut1.jpg
+    - assets/images/img_tut2.jpg
+    - assets/images/img_tut3.jpg
+    - assets/images/img_tut4.jpg
+    - assets/images/img_tut5.jpg
 
   # To add assets to your application, add an assets section, like this:
   # assets:

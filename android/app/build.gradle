@@ -58,9 +58,11 @@ android {
     buildTypes {
         release {
             signingConfig signingConfigs.release
+            //signingConfig signingConfigs.debug
         }
     }
-
+    
+    
     splits {
         // Configures multiple APKs based on ABI.
         abi {
@@ -78,7 +80,8 @@ android {
             // Specifies that we do not want to also generate a universal APK that includes all ABIs.
             universalApk false
         }
-}
+    }
+    
 }
 
 flutter {
